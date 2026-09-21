@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 codev-aryan — Portfolio
+# 🚀 mehta-aryan — Portfolio
 
 <p>
   <img src="https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge"/>
@@ -14,7 +14,7 @@
   A fast, zero-dependency portfolio with glassmorphism UI, scroll animations, and live competitive programming ratings fetched directly from CodeChef and Codeforces at page load.
 </p>
 
-**[View Live →](https://codev-aryan.github.io/portfolio)**
+**[View Live →](https://mehta-aryan.github.io/portfolio)**
 
 </div>
 
@@ -58,7 +58,7 @@ portfolio/
 ## Getting Started
 
 ```bash
-git clone https://github.com/codev-aryan/portfolio.git
+git clone https://github.com/mehta-aryan/portfolio.git
 cd portfolio
 ```
 
@@ -135,5 +135,5 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://github.com/codev-aryan">codev-aryan</a></sub>
+  <sub>Built by <a href="https://github.com/codev-aryan">mehta-aryan</a></sub>
 </div>
