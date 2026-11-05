@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Hardcoded fallbacks — shown instantly, replaced only on successful fetch
     const FALLBACK = {
-        codechef:   { rating: 1615, stars: 3 },
+        codechef:   { rating: 1616, stars: 3 },
         codeforces: { rating: 1243, rank: 'Pupil', color: '#008000' },
     };
 
