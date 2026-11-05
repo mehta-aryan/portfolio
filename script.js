@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function fetchCodeforces() {
         try {
             const res = await fetch(
-                'https://codeforces.com/api/user.info?handles=codev.aryan',
+                'https://codeforces.com/api/user.info?handles=codev-aryan',
                 { cache: 'no-store' }
             );
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
